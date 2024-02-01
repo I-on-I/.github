@@ -6,5 +6,5 @@
 
 ### 📚 스터디 단계
 -  1일 1커밋
-- 목표 스터디 to-do 인증하기 :
-  -> 각자의 branch 생성해서 pull request, merge 연습
+- 목표 스터디 to-do 인증하기 
+  - 각자의 branch 생성해서 pull request, merge 연습
