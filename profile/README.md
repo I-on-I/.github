@@ -20,7 +20,7 @@
     <td align="center"><a href="https://github.com/seunghyun0522"><img src="https://avatars.githubusercontent.com/seunghyun0522" width="130px;""></a></td>
     <td align="center"><a href="https://github.com/gywls20"><img src="https://avatars.githubusercontent.com/gywls20" width="130px;""></a></td>
     <td align="center"><a href="https://github.com/whgek506"><img src="https://avatars.githubusercontent.com/whgek506" width="130px;""></a></td>
-    <td align="center"><a href="https://github.com/hoo788"><img src="https://avatars.githubusercontent.com/hoo788" width="130px;""></a></td>
+    <td align="center"><a href="https://github.com/gyuchanlee"><img src="https://avatars.githubusercontent.com/gyuchanlee" width="130px;""></a></td>
     <td align="center"><a href="https://github.com/Tofubeen"><img src="https://avatars.githubusercontent.com/Tofubeen" width="130px;""></a></td>
     <td align="center"><a href="https://github.com/jgkwon3"><img src="https://avatars.githubusercontent.com/jgkwon3" width="130px;""></a></td>
   </tr>
@@ -28,9 +28,9 @@
     <td align="center"><a href="https://github.com/seunghyun0522"><b>seunghyun0522</b></a></td>
     <td align="center"><a href="https://github.com/gywls20"><b>gywls20</b></a></td>
     <td align="center"><a href="https://github.com/whgek506"><b>whgek506</b></a></td>
-    <td align="center"><a href="https://github.com/whgek506"><b>hoo788</b></a></td>
+    <td align="center"><a href="https://github.com/gyuchanlee"><b>gyuchanlee</b></a></td>
     <td align="center"><a href="https://github.com/Tofubeen"><b>Tofubeen</b></a></td>
-    <td align="center"><a href="https://github.com/
+    <td align="center"><a href="https://github.com/jgkwon3"><b>jgkwon3</b></a></td>
 jgkwon3"><b>
 jgkwon3</b></a></td>
   </tr>
