@@ -31,8 +31,7 @@
     <td align="center"><a href="https://github.com/gyuchanlee"><b>gyuchanlee</b></a></td>
     <td align="center"><a href="https://github.com/Tofubeen"><b>Tofubeen</b></a></td>
     <td align="center"><a href="https://github.com/jgkwon3"><b>jgkwon3</b></a></td>
-jgkwon3"><b>
-jgkwon3</b></a></td>
+
   </tr>
   <!--
   <tr> 
