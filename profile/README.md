@@ -1,6 +1,7 @@
 ## 📅 프로젝트 일정
 
 - Project Conception & Initiation : 20240215~202403
+- [회의](https://docs.google.com/spreadsheets/d/1Mz4lJ1d_ikLL4GnxHD0PqcdvW_I0zyoaCjR5fXgYQrw/edit#gid=0)
 
 ### 🧑🏻 프로젝트 멤버
 
